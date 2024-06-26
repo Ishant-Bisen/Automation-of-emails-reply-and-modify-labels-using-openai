@@ -3,4 +3,5 @@ This project provides a backend server that automates the process of replying to
 
 ## Features
 Automated Email Replies: The server uses OpenAI's API to generate responses to client emails.
+//
 Labeling Emails: Based on the content, emails are labeled as "Interested," "Not Interested," or "More Info."
