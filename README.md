@@ -1,0 +1,2 @@
+# Automation-of-emails-reply-and-modify-labels-using-openai
+This the backed server that help to reply you clients email and add labels on your emails by providing some context of the emails like subject and some para of content to openai Api and get response from it . After recieved the response it reply back to the clients emails and add lablels to email based on [Interesrted ,not Intrested and more Info] 
